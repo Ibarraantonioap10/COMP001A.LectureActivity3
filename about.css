@@ -1,55 +1,76 @@
-/*---------*/
+/* My main is black in color. */
 html {
   color: black;
 }
+/* My head is black in color */
 head {
   color: black;
 }
+/* My meta is black in color. */
 meta {
   color: black;
 }
+/* My title is black in color. */
 title {
   color: black;
 }
+/* My link is black in color. */
 link {
   color: black;
 }
+/* My body is black in color. */
 body {
   color: black;
 }
+/* My header is black in color. */
 header {
   color: black;
 }
+/* My nav is Black in color. */
 nav {
   color: black;
 }
+/* my ul color is black and my font-size is 20px keeping visible to see. */
 ul {
   color: black;
+  font-size: 20px;
 }
+/*The li is black in color and i chnaged the li so that can be visible to see. */
 li {
   color: black;
+  font-size: 30px;
 }
+/* The a is black in color. */
 a {
   color: black;
 }
+/* the h1 is black in color and the font-size is 40px making visible to see. */
 h1 {
   color: black;
+  font-size: 40px;
 }
+/* The h2 keeps 10 things about me visible to the eye and it's black in color. */
 h2 {
   color: black;
 }
+/* My header is black in color. */
 header {
   color: black;
 }
+/* My main is black in color making it easy to read. */
 main {
   color: black;
 }
+/* My article is black in color and the font-size is 20px making the letters visible to see. */
 article {
   color: black;
+  font-size: 20px;
 }
+/* For my footer my color is black to make it easy to see the information. */
 footer {
   color: black;
 }
+/* my p is black in color so that the copyright is visible to see */
 p {
   color: black;
 }
